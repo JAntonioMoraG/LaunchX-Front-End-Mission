@@ -16,7 +16,7 @@ Descripción:
 
 - **Practicas**
 	- [Toma de requerimientos](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/1-Requerimientos)
-  - [Crea tu buyer persona](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/2-Buyer%20Persona)
+  	- [Crea tu buyer persona](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/2-Buyer%20Persona)
 	- [Publico objetivo](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/3-Publico%20Objetivo)
 	- [Crea tu primer Wireframe UX](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/4-Wireframe)
 	- [Ahora el UI](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/5-UI)
