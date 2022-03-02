@@ -1,6 +1,6 @@
 ## Modulo 01 Introduccion a Front End
 ## Las practicas son realizadas por mí (José Antonio Mora Guzmán)
-## En la carpeta [Documentacion](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/Documentacion) encontraras la explicacion de los temas de el modulo 01 Introduccion a front end, dicha documentacion NO ESTA HECHA POR MI, fue tomada del repositorio de la [organizacion de innovaccion virtua](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision), a quien le correspomden todos los creditos de elaboracion de dicha documentacion, la unica razon por la cual la agregue a mi repositorio es por cuestiones de accesibilidad a la hora de estudiar
+## En la carpeta [Documentacion](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/01-Intro/Documentacion) encontraras la explicacion de los temas de el modulo 01 Introduccion a front end, dicha documentacion NO ESTA HECHA POR MI, fue tomada del repositorio de la [organizacion de innovaccion virtual](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision), a quien le correspomden todos los creditos de elaboracion de dicha documentacion, la unica razon por la cual la agregue a mi repositorio es por cuestiones de accesibilidad a la hora de estudiar
 ## Descripcion de la practica
 ## Caso: Abogabot 
 Descripción: 
