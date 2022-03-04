@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Copy-Pastel</title>
+        <link rel="stylesheet" href="../style.css">
+    </head>
+    <body>
+        <div class="header">
+            <p class="slogan">Copiamos tus emociones y las pegamos en tu pastel</p>
+            <h1 class="titulo">Copy-Pastel</h1>
+            <a href="../../index.html"><img class="logo" src="../../Images/copypastellogo.png"></a>
+            <a href="https://github.com/JAntonioMoraG" target="blank"><img class="github" src="../../Images/github.png"></a>
+            <a href="https://instagram.com/tonysaltedelsalon" target="blank"><img src="../../Images/instagram.png" class="insta"></a>
+        </div>
+        <div class="formpt1">
+            <!--Biscocho-->
+            <p class="sabores">Selecciona el sabor de tu biscocho</p>
+            <img src="../../Images/pasteles/chocolate.png">
+            <label class="rcontainer">Chocolate $100
+                <input type="radio"name="biscocho" id="choco" value="choco">
+                <span class="rcheckmark"></span>
+            </label>
+            <img src="../../Images/pasteles/vainilla.png">
+            <label class="rcontainer">Vainilla $100
+                <input type="radio"name="biscocho" id="vainilla" value="vainilla">
+                <span class="rcheckmark"></span>
+            </label>
+            <img src="../../Images/pasteles/redvelvet.png">
+            <label class="rcontainer">Red Velvet $120
+                <input type="radio"name="biscocho" id="velvet" value="velvet">
+                <span class="rcheckmark"></span>
+            </label>
+            <img src="../../Images/pasteles/limon.png">
+            <label class="rcontainer">Limon $100
+                <input type="radio"name="biscocho" id="limon" value="limon">
+                <span class="rcheckmark"></span>
+            </label>
+            <!--Relleno-->
+            <p class="sabores">Elige el sabor de tu relleno</p>
+            <img src="../../Images/pasteles/Rchocolate.png">
+            <label class="container">Chocolate $40
+                <input type="checkbox" name="relleno" id="choco" value="choco">
+                <span class="checkmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Rvainilla.png">
+            <label class="container">Vainilla $35
+                <input type="checkbox" name="relleno" id="vainilla" value="vainilla">
+                <span class="checkmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Rfrutosrojos.png">
+            <label class="container">Frutos rojos $45
+                <input type="checkbox" name="relleno" id="frutos" value="frutos">
+                <span class="checkmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Rlimon.png">
+            <label class="container">Limon $35
+                <input type="checkbox" name="relleno" id="limon" value="limon">
+                <span class="checkmark"></span>
+            </label>
+        </div>
+        <div class="formpt2">
+            <!--Biscocho-->
+            <p class="sabores">Selecciona el sabor de tu cubierta</p>
+            <img src="../../Images/pasteles/Cchocolate.png">
+            <label class="rcontainer">Chocolate $60
+                <input type="radio"name="cubierta" id="choco" value="choco">
+                <span class="rcheckmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Ccremabatida.png">
+            <label class="rcontainer">Crema batida $60
+                <input type="radio"name="cubierta" id="crema" value="crema">
+                <span class="rcheckmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Cfondant.png" >
+            <label class="rcontainer">Fondant $60
+                <input type="radio"name="cubierta" id="fondant" value="fondant">
+                <span class="rcheckmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Cmantequilla.png">
+            <label class="rcontainer">Mantequilla $60
+                <input type="radio"name="cubierta" id="mantequilla" value="mantequilla">
+                <span class="rcheckmark"></span>
+            </label>
+            <!--Decoracion-->
+            <p class="sabores">Elige tus decoraciones</p>
+            <img src="../../Images/pasteles/Figura.png">
+            <label class="container">Figura/vela personalizada $80
+                <input type="checkbox" name="decoracion" id="figura" value="figura">
+                <span class="checkmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Dmalvavisco.png">
+            <label class="container">Malvavisco $30
+                <input type="checkbox" name="decoracion" id="malvavisco" value="malvavisco">
+                <span class="checkmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Dchocolate.png">
+            <label class="container">Chocolates $45
+                <input type="checkbox" name="decoracion" id="Dchoco" value="Dchoco">
+                <span class="checkmark"></span>
+            </label>
+            <img src="../../Images/pasteles/Dchispas.png">
+            <label class="container">Chispas $15
+                <input type="checkbox" name="decoracion" id="chispas" value="chispas">
+                <span class="checkmark"></span>
+            </label>
+        </div>
+        <div class="formpt3">
+            <p class="sabores">Datos para finalizar tu compra</p>
+            <label class="datoscontacto">Nombre:
+                <input type="text" name="contacto" id="nombre">
+            </label>
+            <br><br>
+            <label class="datoscontacto">Telefono:
+                <input type="tel" maxlength="10" name="contacto" id="telefono">
+            </label>
+            <br><br>
+            <label class="datoscontacto">Correo: 
+                <input type="email" name="contacto" id="correo">
+            </label>
+            <br><br>
+            <label class="datoscontacto">Agrega especificaciones como el tipo de tu figura o indicaciones extra en caso de que haya:<br>
+                <textarea name="contacto" id="comentarios" rows="10" cols="84"></textarea>
+            </label> 
+            <br><br>
+            <button id="buttonEnviarForm" name="button1" class="boton datoscontacto" onclick="alert('Tu pedido fue realizado')">Crea tu pastel</button>
+            <br><br>
+            <button id="buttonPagPast" name="button1" class="boton datoscontacto" onclick="window.location='../paginaPastelero/pastelero.html'">Pagina Pastelero</button>
+        </div>
+        <footer>
+            <img src="../../Images/time.png" class="timeicon">
+            <p class="horario">Lunes-Domingo 11:00-21:00</p><br>
+            <img src="../../Images/ubicacion.png" class="ubicacionicon">
+            <p class="direccion">AV. Siempre viva 742 en Springfield</p>
+            <br>
+            <img src="../../Images/tel.png" class="telicon">
+            <p class="tel">5501234589</p>
+        </footer>
+        
+    </body>
+
+</html>
