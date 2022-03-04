@@ -1,0 +1,1 @@
+![Imagen](../images/fondo.jpg)
