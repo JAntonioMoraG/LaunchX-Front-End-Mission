@@ -8,7 +8,7 @@ Para la practica de HTML se nos pidio hacer una pagina de una pasteleria
 Por otra parte el logotipo es la combinacion de los comandos que usamos en la computadora para copiar y pegar "ctrl+c y ctrl+v" junto con un pastel cortado y una rebanada de pastel que sustituyen a letra c y la letra v respectivamente.\
 **Nota: El logo, el slogan y sus significados son ideas propias, las cuales tuve mientras realizaba este proyecto**
 ## Contenido del proyecto
-El proyecto en la [Carpeta principal]() contiene los siguientes archivos:\
+El proyecto en la [Carpeta principal]() contiene los siguientes archivos:
 * La pagina principal de la pasteleria es el [index.html](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/blob/main/02-HTML/index.html):
   * Este archivo es la pagina principal de la pasteleria donde tiene una imagen y un texto de bienvenida y de igual manera un boton para acceder a la pagina donde creas tu pastel (Pagina del usuario)
   
