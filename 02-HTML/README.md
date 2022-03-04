@@ -3,7 +3,7 @@
 ## Copy-Pastel
 <img src="Images/copypastellogo.png" alt="logo" height="150px">
 
-Para la practica de HTML se nos pidio hacer una pagina de una pasteleria 
+Para la practica de HTML se nos pidio hacer una pagina de una pasteleria y crear la imagen y mensajes de la marca.\
 **Copy-Pastel** es un juego de palabras entre el termino en ingles de "Copy-Paste" (copiar y pegar) y la palabra pastel, y el slogan "Copiamos tus sentimientos y los pegamos en tu pastel" es como referencia al termino antes mencionado y a que en nuestra pagina puedes fabricar tu pastel como a ti te guste.\
 Por otra parte el logotipo es la combinacion de los comandos que usamos en la computadora para copiar y pegar "ctrl+c y ctrl+v" junto con un pastel cortado y una rebanada de pastel que sustituyen a letra c y la letra v respectivamente.\
 **Nota: El logo, el slogan y sus significados son ideas propias, las cuales tuve mientras realizaba este proyecto**
