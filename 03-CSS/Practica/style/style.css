@@ -1,0 +1,293 @@
+@font-face {
+    font-family: titulos;
+    src: url(../fonts/Creo-ExtraBold.ttf);
+}
+@font-face {
+    font-family: texto;
+    src: url(../fonts/Creo-ExtraLight.ttf);
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.align-end{
+    display: flex;
+    align-items: flex-end;
+}
+.titulo{
+    font-family: titulos;
+    font-size: 70px;
+    color: #1f3e72;
+}
+.subtitle{
+    font-family: titulos;
+    font-size: 46px;
+    color: #1f3e72;
+}
+.logo{
+    border: thin solid white;
+}
+.menu ul {
+    list-style-type: none;
+    font-family: texto;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.titpie{
+    font-family: texto;
+    font-weight: bolder;
+    font-size: 20px;
+    color:#1f3e72;
+}
+footer{
+    background-color: #eef3ff;
+}
+.logo{
+    color: #3757d5;
+    font-family: titulos;
+    font-size: 32px;
+    font-weight: lighter;
+}
+a{
+    color: #6d7b93;
+}
+.textopie{
+    font-family: texto;
+    color: #6d7b93;
+    font-size: 17px;
+}
+.contenidopie li{
+    font-family: texto;
+    color: #6d7b93;
+    font-size: 17px;
+}
+.contenidopie p{
+    padding-bottom: 1.25rem;
+}
+.contenidopie li{
+    list-style-type: none;
+    padding-bottom: 1rem;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.titulares {
+    padding: 1.9rem;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.icon{
+    width: 24px;
+    height: 24px;
+}
+.icono-caja{
+    width: 32px;
+    height: 32px;
+}
+.icono-caja2{
+    width: 48px;
+    height: 48px;
+}
+.caja-contenedora{
+    padding-left: 1rem;
+    background-color:white;
+    border: 2px solid white;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+.caja-contenedora2{
+    padding-left: 2rem;
+    background-color:white;
+    border: 2px solid white;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+.buttoncall{
+    padding-right: 1rem;
+}
+.titulo-caja{
+    color: #1f3e72;
+    padding-top: 2rem;
+    text-align: left;
+    font-family: texto;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.titulo-caja2{
+    color: #1f3e72;
+    text-align:left;
+    font-family: texto;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.texto-caja{
+    color: #6d7b93;
+    padding-top: 2rem;
+    text-align: left;
+    font-family: texto;
+    font-size: 19px;
+}
+.texto-caja2{
+    color: #6d7b93;
+    text-align: left;
+    font-family: texto;
+    font-size: 18px;
+}
+.boton-blanco{
+
+    background-color: #f1f5ff;
+    border: 1px solid #f1f5ff;
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    font-family: texto;
+    font-size: 18px;
+    color:#2949c7;
+    font-weight: bolder;
+
+}
+
+.boton-azul{
+
+    background-color:#2949c7;
+    border: 1px solid #2949c7;
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    font-family: texto;
+    font-size: 18px;
+    color:white;
+    font-weight: bolder;
+
+}
+.texto{
+    font-family: texto;
+    font-weight: bolder;
+    color: #6d7b93;
+    font-size: 20px;
+    padding-top: 2rem;
+    text-align: left;
+}
+.boton-icons{
+    padding-top: 4rem;
+    background-color: white;
+    border: solid 0px white;
+    font-family: texto;
+    font-size: 18px;
+    text-align: center;
+    font-weight:bolder;
+    color: #1f3e72;
+}
+.horario{
+    padding-top: 6rem;
+    background-color: white;
+    border: solid 0px white;
+    font-family: texto;
+    font-size: 22px;
+    text-align: center;
+    font-weight:bolder;
+    color: #1f3e72;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    
+}
+.piepagina{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+main {
+    flex-grow: 1;
+}
+.item-texto{
+    text-align: center;
+    top: 20%;
+    padding-left: 7rem;
+    padding-top: 8rem;
+}
+.vacunas-pie{
+    width: 100%;
+    height: 20vh;
+}
+
+.flow-reverse{
+    flex-direction: row-reverse;
+}
+@media screen and (min-width: 1024px) {
+    .header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+    }
+    .menu ul {
+        display: flex;
+        align-items: baseline;
+    }
+    .menu li {
+
+        padding-left: 4rem;
+    }
+
+    .container {
+        display: flex;
+    }
+    .tipos-vacunas{
+        display: flex;
+
+    }
+    .item {
+        flex: 0 0 50%;
+    }
+    .item-vacunas {
+        flex: 0 0 100%;
+    }
+    .item-texto{
+        top: 20%;
+        padding-left: 7rem;
+        padding-top: 8rem;
+        text-align: left;
+    }
+    .piepagina{
+        display: flex;
+        flex-direction: row;
+        align-items: initial;
+        text-align: left;
+        justify-content: space-between;
+        padding: 2.9rem;
+    }
+    img{
+        width: 100%;
+        height: 100vh;
+    }
+    .item-image2{
+        width: 100%;
+        height: 130vh;
+    }
+    .item-image3{
+        width: 100%;
+        height: 130vh;
+    }
+
+}
