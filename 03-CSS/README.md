@@ -12,3 +12,5 @@ Donde encontraras:
 * La pagina [vacuna.html](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/blob/main/03-CSS/Practica/vacuna.html)
 * La carpeta [style](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/03-CSS/Practica/style) que contiene el archivo [style.css](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/blob/main/03-CSS/Practica/style/style.css)
 * La carpeta [Plan Mercadotecnia](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/03-CSS/Practica/Plan%20Mercadotecnia) en donde esta el archivo [plan.pdf](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/blob/main/03-CSS/Practica/Plan%20Mercadotecnia/plan.pdf)
+
+Tambien puedes encontrar un video de la pagina en la carpeta [video pagina](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/03-CSS/Video%20Pagina)
