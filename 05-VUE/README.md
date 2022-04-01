@@ -1,6 +1,6 @@
 # Modulo 05- Practica VUE05-VUE
 ## Autor Mora Guzman Jose Antonio
-Para la presente practica se nos pidio que nuestra pagina de la pasteleria de nuestra practica de HTML la cual puedes ver [aqui](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/02-HTML), ahora la debiamos realizar con ayuda de VUE.
+Para la presente practica se nos pidio que nuestra pagina de la pasteleria de nuestra practica de HTML la cual puedes ver [aqui](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/02-HTML), ahora la debiamos realizar con ayuda de VUE. Antes de empezar este proyecto con VUE decidí mejorar mi codigo de la pasteleria puesto que en un principio era puro HTML y CSS ahora decidi hacerla con FlexBox y tambien ya es responsiva para verse desde celulares.
 Todo el contenido del proyecto de VUE esta en este repositorio, si lo que deseas es ver la pagina desplegada da clic [aqui](https://proud-stone-0fc17b810.1.azurestaticapps.net/), esta pagina esta desplegada en azure.
 
 ## Descripcion de la practica 
