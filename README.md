@@ -7,3 +7,4 @@
 * Modulo 02- HTML: [Ver practicas modulo 2](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/02-HTML)
 * Modulo 03- CSS: [Ver Practicas modulo 3](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/03-CSS)
 * Modulo 04- JavaScript: [Ver practicas modulo 4](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/04-JS)
+* Modulo 05- VUE.js: [Ver practicas modulo 5](https://github.com/JAntonioMoraG/LaunchX-Front-End-Mission/tree/main/05-VUE)
